@@ -5,3 +5,4 @@
 .vscode/ipch
 
 !.pio/libdeps/pico/TFT_eSPI/User_Setups/ProBatch_Alpha_ST7789.h
+!.pio/libdeps/pico/TFT_eSPI/User_Setup_Select.h
