@@ -24,7 +24,8 @@
 
 // Only ONE line below should be uncommented to define your setup.  Add extra lines and files as needed.
 
-#include <User_Setups/ProBatch_Alpha_ST7789.h>  // Setup file for ESP8266 configured for my ILI9341
+#include <User_Setups/ProBatch_Alpha_GC9A01.h> 
+// #include <User_Setups/ProBatch_Alpha_ST7789.h>
 
 // #include <User_Setup.h>           // Default setup is root library folder
 
